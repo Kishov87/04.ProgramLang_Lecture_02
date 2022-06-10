@@ -13,7 +13,7 @@ int a2 = 12;
 int b2 = 231;
 int c2 = 33;
 int a3 = 13;
-int b3 = 23;
+int b3 = 23111;
 int c3 = 313;
 
 //int max1 = Max(a1,b1,c1);
